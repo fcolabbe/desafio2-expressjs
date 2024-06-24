@@ -40,6 +40,10 @@
 
 Este servidor backend está diseñado para trabajar con una aplicación frontend pre-construida. Asegúrate de que tu aplicación del lado del cliente esté configurada para interactuar con estos endpoints de la API.
 
+http://localhost:3000/ 
+
+![alt text](<Screenshot 2024-06-23 at 22.33.24.png>)
+
 ## Almacenamiento de Datos
 
 Los datos de las canciones se almacenan localmente en un archivo JSON llamado `repertorio.json`.
